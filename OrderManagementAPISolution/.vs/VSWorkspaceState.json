@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\OrderManagementAPI",
+    "\\OrderManagementAPI\\Models",
+    "\\OrderManagementAPI\\obj",
+    "\\OrderManagementAPI\\obj\\Debug",
+    "\\OrderManagementAPI\\obj\\Release",
+    "\\OrderManagementAPI\\Properties",
+    "\\TestResults"
+  ],
+  "SelectedNode": "\\OrderManagementAPI\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}
